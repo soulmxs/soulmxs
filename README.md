@@ -15,6 +15,16 @@
 - Website: [beep-beep.co.il](https://beep-beep.co.il)  
 - Telegram: [@soulmxs](https://t.me/soulmxs)
 
+---
+
+### 🏷 Badges
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Repos](https://img.shields.io/badge/Public%20Repos-2-blue)
+![Last Commit](https://img.shields.io/github/last-commit/soulmxs/soulmxs)
+![Status](https://img.shields.io/badge/Activity-Active-success)
+
+
 - ---
 
 ### 📊 GitHub Stats
