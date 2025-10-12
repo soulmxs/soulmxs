@@ -32,6 +32,13 @@
 [![Website](https://img.shields.io/badge/Website-beep--beep.co.il-blue?logo=google-chrome&logoColor=white)](https://beep-beep.co.il)
 [![GitHub](https://img.shields.io/badge/GitHub-soulmxs-black?logo=github)](https://github.com/soulmxs)
 
+---
+
+### 👁️ Profile views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=soulmxs&color=brightgreen&style=for-the-badge)
+
+
 
 
 - ---
