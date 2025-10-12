@@ -24,6 +24,15 @@
 ![Last Commit](https://img.shields.io/github/last-commit/soulmxs/soulmxs)
 ![Status](https://img.shields.io/badge/Activity-Active-success)
 
+---
+
+### 📫 Contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-@soulmxs-2CA5E0?logo=telegram&logoColor=white)](https://t.me/soulmxs)
+[![Website](https://img.shields.io/badge/Website-beep--beep.co.il-blue?logo=google-chrome&logoColor=white)](https://beep-beep.co.il)
+[![GitHub](https://img.shields.io/badge/GitHub-soulmxs-black?logo=github)](https://github.com/soulmxs)
+
+
 
 - ---
 
