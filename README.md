@@ -38,6 +38,12 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=soulmxs&color=brightgreen&style=for-the-badge)
 
+---
+
+### 🕒 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soulmxs&theme=react-dark&hide_border=true&area=true)
+
+
 
 
 
