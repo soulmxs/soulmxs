@@ -43,6 +43,13 @@
 ### 🕒 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soulmxs&theme=react-dark&hide_border=true&area=true)
 
+---
+
+### 📄 Summary
+- 🧱 2 main projects: E-Com Floor Mats Kit & Crypto Ops Playbook  
+- 🧩 Active in GitHub daily since launch  
+- 🌍 Focus: automation, templates, crypto ops, shipping logistics  
+- 💬 Open for collaboration and community improvements  
 
 
 
