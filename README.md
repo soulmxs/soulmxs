@@ -62,3 +62,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulmxs&layout=compact&theme=radical)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=soulmxs&theme=darkhub&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
