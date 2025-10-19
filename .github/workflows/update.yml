@@ -2,24 +2,29 @@ name: Auto Update Profile
 
 on:
   schedule:
-    - cron: '0 6 * * *' # каждый день в 06:00 UTC
+    - cron: '0 6 * * *'   # каждый день в 06:00 UTC
   workflow_dispatch:
+
+# ВАЖНО: даём воркфлоу право пушить в репозиторий
+permissions:
+  contents: write
 
 jobs:
   update-profile:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Update timestamp
+      - name: Update timestamp file
         run: |
-          echo "Last update: $(date)" > last_update.txt
+          echo "Last update: $(date -u) UTC" > last_update.txt
 
       - name: Commit & push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add .
+          git add -A
           git commit -m "chore: daily auto update" || echo "No changes to commit"
+          git pull --rebase
           git push
