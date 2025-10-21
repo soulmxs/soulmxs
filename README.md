@@ -71,5 +71,10 @@
 ## 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulmxs&layout=compact&theme=github_dark)
 
+### ⚡ Stats
+
+![SoulMXs's GitHub stats](https://github-readme-stats.vercel.app/api?username=soulmxs&show_icons=true&theme=tokyonight)
+
+
 
 
