@@ -1,5 +1,3 @@
-soulmxs
-
 ### 🚀 Building: AutoGen Poster Bot
 Automating post scheduling directly from GitHub to Twitter (X) using GitHub Actions.
 
